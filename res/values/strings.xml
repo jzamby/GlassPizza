@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GlassPizza</string>
+    <string name="glass_voice_trigger">order pizza</string>
+    <string name="glass_voice_prompt">what do you want on it?</string>
+    <string name="title_activity_pizza">PizzaActivity</string>
+    <string name="stop">Hide</string>
+
+</resources>
